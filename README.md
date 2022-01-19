@@ -1,2 +1,2 @@
 # afroFashion
-An E-commerce site for africa fashion
+A responsive E-commerce site for africa fashion
