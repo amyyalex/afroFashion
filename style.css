@@ -720,7 +720,7 @@ nav ul li a:hover {
 		background: #ffe4e1;
 		width: 100%;
 		overflow: hidden;
-		transition: max-height 0.8s;
+		transition: all 300ms ease;
 	}
 
 	nav ul li {
