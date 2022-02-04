@@ -8,10 +8,10 @@ function menuToggle() {
   var MenuItems = document.getElementById("MenuItems");
   
 
-  if (MenuItems.style.maxHeight == "0px") {
-    MenuItems.style.maxHeight = "300px";
+  if (MenuItems.style.display == "block") {
+    MenuItems.style.display = "none";
   } else {
-    MenuItems.style.maxHeight = "0px";
+    MenuItems.style.display = "block";
   }
 }
 
